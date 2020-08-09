@@ -1,0 +1,2 @@
+add_executable(simple_triangle simple_triangle.cpp)
+target_link_libraries(simple_triangle scene)
